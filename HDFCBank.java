@@ -1,6 +1,6 @@
 interface Bank{
 
-public void credit(int depAmt); // these are abstarct method abstract methods doesnt have a body
+public void credit(int depAmt); // these are abstarct method abstract methods doesnt have a body and this new cange
 
 public void debit(int wAmt);    // if we put {} instead of ; at end it will give error that interface method cannot have body
 
