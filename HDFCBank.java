@@ -49,6 +49,7 @@ d.debit(100);
 d.credit(200);
 d.interest(10);
 d.loan();
+System.out.println("Code complete");
 }
 
 }
